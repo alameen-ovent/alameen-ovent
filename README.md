@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I'm Alameen
 
-<!--
-**alameen-ovent/alameen-ovent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer • 🤖 AI Builder • ⚡ Automation Enthusiast
 
-Here are some ideas to get you started:
+> Building useful things with code, AI, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a developer who loves exploring **AI, automation, full-stack development, and futuristic web experiences**.
+
+---
+
+### 🚀 Currently Building
+
+* 🤖 AI-powered automation systems
+* ⚡ n8n workflows & AI agents
+* 🌐 Full-stack web projects
+* 🧊 Interactive & 3D web experiences
+
+---
