@@ -1,96 +1,137 @@
-<div align="center">
+# 👋 Hey, I'm Alameen
 
-<img src="./assets/banner.svg" alt="Futuristic profile banner" width="100%"/>
+### 💻 Developer • 🤖 AI Builder • ⚡ Automation Enthusiast
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Booting+up+profile...;Hello%2C+World.+I'm+YOUR+NAME;Building+smart+things+with+code;Turning+ideas+into+reality" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM+VISITS&color=00f0ff&style=for-the-badge&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=ff00e5&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=00f0ff&labelColor=0d1117)
-
-</div>
+> **Turning ideas into code, and code into useful experiences.**
 
 ---
 
-## `> ./about_me.sh`
+## 🧠 About Me
 
-```yaml
-name:       YOUR NAME
-role:       Developer / Student / Creator
-location:   Your City, Country
-focus:      AI · Automation · Web
-learning:   Whatever is next
-fun_fact:   Replace me with something memorable
+I'm a developer who loves building things with **code, AI, automation, and modern web technologies**.
+
+I enjoy experimenting with new technologies, solving problems, and transforming ideas into real-world projects.
+
+I'm currently exploring the intersection of:
+
+**AI × Automation × Web Development × 3D Experiences**
+
+---
+
+## 🚀 What I'm Building
+
+```text
+🤖 AI Systems
+⚡ Automation Workflows
+🌐 Full-Stack Applications
+🧊 Interactive & 3D Web Experiences
+🛠️ Developer Tools
+```
+
+I'm particularly interested in building systems that can **automate repetitive tasks, simplify workflows, and create better digital experiences.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Python` `JavaScript` `HTML` `CSS`
+
+### Web Development
+
+`Frontend` `Backend` `REST APIs` `Responsive Design`
+
+### AI & Automation
+
+`AI Agents` `n8n` `Local AI` `Ollama`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Blender`
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Automation
+
+Building intelligent automation systems that combine **AI + workflows + tools**.
+
+### 🌐 Interactive Web Projects
+
+Creating modern websites with animations, interactive interfaces, and immersive experiences.
+
+### ⚙️ Developer Experiments
+
+Exploring different technologies through practical projects and experiments.
+
+> More projects coming soon...
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Full-Stack Development
+* AI Agent Architecture
+* Workflow Automation
+* Backend Development
+* Databases
+* 3D Web Development
+* Deployment & Production Systems
+
+---
+
+## 🎯 My Philosophy
+
+> **Don't just learn technology. Build something with it.**
+
+I believe the best way to learn is to **build, experiment, make mistakes, understand why they happened, and improve.**
+
+---
+
+## 🌱 My Journey
+
+```text
+Learn
+  ↓
+Experiment
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Build Something Better
 ```
 
 ---
 
-## `> ./tech_stack --load`
+## 📊 GitHub
 
-<div align="center">
+I'm using GitHub to document my journey, experiment with ideas, and share the things I build.
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,linux,vscode,docker&theme=dark" alt="Tech stack icons"/>
-
-</div>
+**Every repository represents something I learned, built, or explored.**
 
 ---
 
-## `> ./featured_projects`
+## 🤝 Let's Connect
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>⚡ Project One</h3>
-      <p>Short description of what it does and why it matters.</p>
-      <img src="https://img.shields.io/badge/Python-00f0ff?style=flat-square&logo=python&logoColor=black"/>
-      <br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">▶ View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>🧠 Project Two</h3>
-      <p>Short description of what it does and why it matters.</p>
-      <img src="https://img.shields.io/badge/JavaScript-ff00e5?style=flat-square&logo=javascript&logoColor=black"/>
-      <br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">▶ View Repository</a>
-    </td>
-  </tr>
-</table>
+I'm always interested in learning, building, and exploring new ideas.
+
+**Build something meaningful. Keep learning. Keep improving.**
 
 ---
 
-## `> ./stats --live`
+### ⚡ Thanks for visiting my profile!
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff00e5&text_color=9fe9ff" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=9fe9ff" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff00e5&currStreakLabel=00f0ff" alt="Streak"/>
-
-</div>
-
-### Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f0ff&line=ff00e5&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph"/>
-
----
-
-## `> ./connect --open-channel`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00e5"/></a>
-<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ff00e5"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=22&animation=twinkling" width="100%" alt="Footer"/>
-
-</div>
+```text
+╔══════════════════════════════════════╗
+║                                      ║
+║       CODE  •  CREATE  •  INNOVATE   ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
